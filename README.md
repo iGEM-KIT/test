@@ -1,2 +1,2 @@
 # test
-test repository for tut
+test repository for having fun with git
